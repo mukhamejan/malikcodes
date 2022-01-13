@@ -26,3 +26,5 @@ What I do next is that I basically paste the picture generated from LaTex proces
 <img src="https://latex.codecogs.com/gif.image?\dpi{110}&space;f(s)=\sqrt{x^2\ln&space;x}" title="f(s)=\sqrt{x^2\ln x}" />
 
 Just a comment. 
+
+PS: This was made by a future Microsoft CEO. Enjoy!
