@@ -17,5 +17,5 @@ I will now try to add LaTex code.
 I guess I can type out the commands here:
     `$f(s)=\sqrt{x^2\ln x}`
 What I do next is that I basically paste the picture generated from LaTex processor website. 
- `<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " />`
-<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+    `<img src="https://latex.codecogs.com/gif.image?\dpi{110}&space;f(s)=\sqrt{x^2\ln&space;x}" title="f(s)=\sqrt{x^2\ln x}" />`
+<img src="https://latex.codecogs.com/gif.image?\dpi{110}&space;f(s)=\sqrt{x^2\ln&space;x}" title="f(s)=\sqrt{x^2\ln x}" />
